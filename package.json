@@ -12,5 +12,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@ensdomains/ens-contracts": "^1.2.2",
+    "@openzeppelin/contracts": "^5.1.0"
   }
 }
